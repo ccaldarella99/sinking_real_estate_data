@@ -7,6 +7,12 @@ This repo was specifically created for the Data Scientist Team, but __all are we
 This project is part of "The Opportunity Project" held by the US Census Bureau.
 
 
+## Data 
+
+Data is being stored privately on the cloud; Please let me know if you want or need it.
+A directory named 'data' will be provided, which can be dropped directly into the repo. This directory is included in the .gitignore file.
+
+
 ## Requirements
 This report requires Python and the following tools/libraries and a few more:
   - NumPy
