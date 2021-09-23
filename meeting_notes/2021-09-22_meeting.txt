@@ -1,0 +1,77 @@
+
+2021-09-22
+-----------
+
+
+Data Scientists:
+
+Best looking projects from a Data standpoint:
+	Car Calculator: Plenty of data for the Car Calculator, should be the easiest to implement - best data
+	Real Estate with rising Sea Levels: This one is the next easiest. There are interactive maps, but this integration with real estate has NOT been done.
+
+
+The others have issues here and there that would make it a bit more difficult
+	Storm Alert: We would be adding to the National Weather Service (that already does this)
+	Bee population: Hard to do b/c of lack of data
+	Recycling:	 A lot of data, scattered and harder to work with. Need to figure out something more specific and doable.
+
+
+Would there be a way to see how prices have been changing, and see if there is a correlation? 
+Yes, probably, we can look at zillow for prices - not sure if there are historical prices.
+
+
+Benjamin shared this article yesterday: https://www.millionacres.com/real-estate-investing/articles/where-rising-sea-levels-could-swamp-affordable-housing/
+
+Possibly include how low-income housing is affected by this.
+
+
+Do we want to compete? 
+	Nic: 		Yes
+	Chris:		Yes
+	Benjamin:	Yes
+	Debbie:		Yes
+	Sebs:		Yes
+	Theo:		Yes
+	Ariel:		Yes
+
+Which Project: 
+	Nic: 		Real Estate/Sea Level
+	Chris:		Real Estate/Sea Level
+	Benjamin:	Real Estate/Sea Level
+	Debbie:		TBA
+	Sebs:		Real Estate/Sea Level
+	Theo:		Undecided
+	Ariel:		Real Estate/Sea Level
+	Richard:	TBA
+
+
+It was mentioned that there are many apps showing Flooding and rising sea levels and it was mentioned that Real estate has not yet been integrated with this.
+
+
+Went over the difference of a mobile app and optimizing for mobile.
+We will be Optimizing for mobile - we will not be making an app.
+
+
+It looks like we will be doing Real Estate vs Rising Sea Levels!
+We need to write up a synopsis for submittal.
+Answer: [solve XX problem] for [end users]
+
+
+Team Leads to meet up tomorrow (9/23/2021).
+
+
+We will need to look for a template for Problem Statements to start us off.
+
+
+What are the tools?
+	Perhaps use Trello: it's easy to use and free
+	Google Doc for Team to communicate what we are doing/needing.
+	Google Drive folder: https://drive.google.com/drive/folders/1umx7kzhESgH0cqJscHfP88lsexFsjHdn?usp=sharing
+
+
+
+Team Leads meeting tomrrow at 1PM to work on Problem Statement, to be posted in slack, and Debbie to present to Ashley. Debbie will present on Friday.
+
+
+
+

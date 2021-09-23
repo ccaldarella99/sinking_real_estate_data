@@ -1,0 +1,153 @@
+
+
+2021-09-21
+----------
+
+
+2:05	Tell eachother about ourselves ()...
+
+		Debbie Brannon:		SEI			graduated mid-June 2021
+							strengths:	planning, organizing, coordinating
+		Benjamin Sweet:		UXDI		graduated mid-June 2021
+							strengths:	Writing, creative problem solving, visual design, humor
+		
+
+2:10	Mentors introductions:
+		
+		Ashley Evans:		UXDI		graduated 2020
+		Raj Chakrabarty:	DSI			graduated 2018 (SEI mentor)
+
+
+2:15	Rest of the team:
+		Jake Peck:			SEI			(Just got a job!!)
+		Theo Nguyen:		UXDI	
+							strengths:	Ui- Visual Design, Creative thinking, Ideation
+		Kasey Miller:		UXDI		(had an emergency)
+		Sebs Ipince:		UXDI		graduated end of April 2021
+							strengths:	Detail-oriented, team collaboration, UI Design
+		Ariel DeLaura:		SEI			
+							strengths:	team collaboration, React.js and Javascript, HTML CSS, git hub, problem solving
+		Chris Caldarella:	DSI			graduated mid-June 2021
+							strengths:	programming, organizing, problem solving
+		Nic Steele:			DSI			graduated mid-May 2021
+							strengths:	Python, Tableau, problem solving, mathematics
+
+		
+2:28	Assign liaisons for each group:
+		UXDI:	Benjamin Sweet
+		SEI:	Ariel DeLaura
+		DSI:	Nic Steele
+
+2:33	Go over Mentors for each skill
+		UXDI:		Karl Solano (and Ashley Evans)
+		SEI:		Bil Erdenekhuyag, Raj Chakrabarty
+		DSI:		David Trichter (and Raj Chakrabarty)
+		PM:			Ashley Evans
+
+
+2:36	There is a mentor video in slack:
+		
+		Video: https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/idWfqviGQiHAIRqz2jNEu_vxhay39p1hL4-g6VpKWI-4YjvwYlwTmXDZ0tEtEIA.2d32VGCGPgfLK1JZ__;!!GgcXpDZ2N9l6uyZJ!xphMAhRYjEMGLwb6h4eT2zEKrFeaMOYoQ2O5tDEiETgKX3Eai6ImYZSli610MONagD3h$
+		Passcode: 1kF.2$C8
+		
+		Deck: https://docs.google.com/presentation/d/1t2fkDQgtK6PfDfuhi5lMwuOuyUzxhDtBAoTRwEcDGoU/edit?usp=sharing
+
+
+2:37	Top 3 ideas for a product:
+		Benjamin
+			A projection map of sea level rise in association to a smart long term real estate investment
+			A storm alert app that also explains preventative measures, emergency measures, storm shelters, etc based on location
+			A savings over time calculator by entering your current vehicle and what savings you could achieve by buying/leasing/financing an electric vehicle
+
+		Theo
+			Maybe we can come up with a brainstorm session?
+		
+
+2:45	Can we use data outside government data
+		This was answered by Shahier:
+		
+			Akira Takahashi (he/him) - New York  1 day ago
+			Hi, I have a question about the data we should be using for our projects. I see in the judgment guidelines the following:
+			"federal open data sets from the Census Bureau and other federal agencies"
+			In addition to federal agencies (including Census Bureau), can we use academically supported (e.g. research papers and their references) as resources, or are we restricted to the census data?
+
+			Shahier Rahman (he/him) - DC  1 day ago
+			@Akira Takahashi (he/him) - New York I think you can use both. You just have to be able to show that you used some form of open government data to inform and create your product
+
+
+2:48	Ariel
+			Emissions/greenhouse gases
+			ocean/plastic pollution
+			bee pollination/agriculture
+
+2:49	Benjamin on Agriculture: prices are skyrocketting where bees are dying, and dropping where bees are thriving.
+
+
+2:52	Debbie and Benjamin mentioning that everyone should be involved in the research instead of just UXDI team
+		Sebs mentioning Agile methodologies so that no one is at a stand still
+		Ashley mentioned that it is probably best if everyone helps with the research portion since it is the most important and time sensitive part
+		
+2:56	Where does SEI and DSI come into the project.
+		Raj:	Idea is brainstormed, DSI can weigh in on whether the Data exists.
+
+2:57	Theo:	If we can get more undderstanding aboutthe product on a whole that would be more helpful.
+
+2:58	Nic:	Data Scientists look for Trends, Correlations, can possibly make predictive models. Look for causation.
+
+3:01	Theo:		How does Machine Learning fit in?
+		Chris/Nic:	It covers many areas and domains.
+
+3:04	Nic:	Data science is very dependent on what we want to do and it will evolve off of that.
+		Sebs:	Cleaning Data, and implementing Regression - is that what Data Scientists do?
+		Nic:	Yes, we can do predictive models, but it depends on the data and what we want to do.
+		Sebs:	How does SEI fit into this?
+		Ariel:	Take the Data Sets and incorporate it into the code. For instance, making it interactive.
+		Nic:	Having clean data is 60-80% of what we do.
+
+
+
+
+We all agreed we need to generate a few ideas for Nic and Chris to explore whether the data is good, and whether a correlation of any kind exists.
+
+
+Sebs:	Recycling and polution relationship
+		A lot of non-recyclable things end up in the recylce bins, and ends up in the trash anyway. Does this cost a lot of money since someone must sort these items.
+
+
+Sebs:	A lot of people came to the US from South America to get a COVID-19 vaccination.
+		How long to get results? Where? Is it free or not?
+(Maybe we should not stray so far towards the COVID group.)
+
+
+Are we making an app?
+No - but we can make it interactive and optimized for mobile.
+
+
+Nic:	DSI is restricted by Data, and SEI is limited to a web page (i.e. not an app)
+		Are there any other roadblocks?
+		Ashley: UXDI is limited by Dataset, and Research (and stakeholders)
+				Need to do secondary research.
+
+
+Clarification on research:
+Benjamin:	User interviews is a big thing, and will be left to the UXDI team
+
+Prototype needs to be taken to the field?
+Benjamin:	(Yes) See the results by interviewing people and asking them questions.
+Sebs:		We need to identify what we want to learn. 
+
+
+Chris:		A lot of Storm, Drought, and Climate data. It might be cool to see if any of it fits together or if there are any correlations. Also likes the bee pollination idea.
+
+
+Debbie:		A lot of Earthquakes in Debbie's area, and they are quite often (3 or 4 in the past several months), and mybe related to extracting oil
+
+
+Ariel:		Likes Real Estate idea and Bee pollination idea
+
+
+Raj:		Population vs Storm or Drought data?
+
+
+Chris and Nic to look for good data for the group to work on.
+
