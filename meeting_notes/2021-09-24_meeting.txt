@@ -1,0 +1,177 @@
+
+
+
+2021-09-24
+-----------
+
+
+13:33	Karl Solano (UXDI Mentor)
+		Another app exists
+		Take this as an opportunity to see what the problem is we are trying to suggest.
+		
+		Current App: Map shows cities at risk
+		
+		What now? What are going to get from this app?
+		What options if sea level rises?
+		What properties can you show me now that are low risk according to the map?
+		Where can we go from here (as a coastal land-owner)?
+		What can we do in ten years to give myself a good advantage?
+		What can I use this app for to get me to the right people?
+		
+		What are the users going to be trying to get from the App?
+		Can use it as competitve analysis.
+		Who can we target or who is our target audience?
+		
+		If we pivot, UXDI needs to start over.
+		
+		
+13:38	Ashley Evans (PM/UXDI Mentor)
+		Look at future/competitve analysis.
+		Maybe we can find a Niche.
+		
+		
+13:40	Raj Chakrabarty (SEI/DSI Mentor)
+		Maybe we can redefine/refine our idea instead of a complete pivot to a different project
+		
+		
+So what we come up with by 5PM today does not have to be an exact definition; the project can and will change as we continue to work on it.
+
+Raj would like to meet with Data Science team.
+
+
+Ideas:
+Maybe focusing on Low Income Housing?
+	Maybe this can be a tool that can help build new affordable housing.
+
+Challenge specifically mentions communities and Climate
+
+
+NYT article about Flooding: effect of Flood-Risk on housing.
+Recap: 
+	Shouldn't this be reflected in the price? 
+	Not really, b/c of subsidized Flood Insurance.
+
+
+13:46	Matt Lewis
+		There are people that work on some of these areas as their job
+		But maybe this can be something we can find a niche
+		
+		SE: this will be "crunchy" putting this together.
+		Adding algorithms to the SW, might be helpful to have the perspective from a Economist
+		
+		
+Benjamin
+		Thinking about the community asa whole is a cool idea to consider
+		
+		
+13:50	Richard Sarmiento (GA IA)
+		Background in Sales
+		Initial thoughts: Focus on "Data for Good"
+		How can we give the community something actual, something to use?
+		Maybe paint a picture to the data (Like MyFitnbessPal)
+		Perhaps Alerts and Notifications; SOmething that encourages people to take Action, with a Platform
+		
+1:52	Matt Lewis
+		Perhaps treat this as something that the Large Real Estate companies already know
+		But this is something that we can Open Source for all to see and all to use.
+		
+13:53	Benjamin Sweet
+		We should really think about our target audience.
+		e.g. Millenials, and how they are not really buying houses
+		Maybe this is something to give the yournger generation a leg up
+		There seems to be a huge lack of information in buying homes/property
+		Maybe it makes sense to buy a home in a danger zone and flip it?
+		
+		
+13:55	Ashley Evans
+		UXDI team must follow the process.
+		Make sure to ask people what they think.
+		Although deadlines are looming, we need to make sure not to 
+		There is no way we will have a product by the end of next week.
+		We need to be doing RESEARCH
+		
+		
+13:56	Debbie
+		We were talking about doing Car-emissions instead, but we are ditching that, yes?
+		
+13:57	Benjamin Sweet
+		Yes, we just need to update our problem statement
+		
+13:58	Ashley Evans
+		(This project will progress and change as it continues)
+		
+		Debbie
+		We can narrow it down as we get more data
+		
+13:59	Nic Steele
+		Property is average by zip code
+		need to relate that to the audience
+		Hoping to meet with Raj so we can look 
+		
+		Debbie Brannon
+		Shaheir said we do not need to use only Census data
+		
+14:00	Matt Lewis
+		APIs for data can be accessed.
+		Where and when do user interviews happen
+		
+14:01	Benjamin Sweet
+		Ask people on the street
+		There is a (paid) website that pays users to answer questions.
+		
+		
+14:06	Talked about it and we will __not__ be focusing on a region, we will be doing the "whole enchilada" and do __all__ data/regions
+		
+		
+14:07	Debbie Brannon
+		Better with Express, but can do Python		
+		
+14:08	Vinny Vilasboa
+		Coach switching over to SE
+		Better with Express, but can do Python
+		Confused as to where we landed
+		
+14:10	Benjamin
+		We are staying with the same project, pinning down the audience
+		
+		Vinny Vilasboa
+		What does the user get out of it?
+		A friend is in a 2-story house, and it got flooded , all the way up to the second floor.
+		May be easier if we picture as where we want to be and work backwards
+		Who is the user and what are they trying to get from the app?
+		
+We 
+		
+14:15	Nic Steele
+		Right now we are unsure what more data we can get than what we have.
+		
+		
+		Yunus Herman
+		Based in Boston, DSI graduate
+		Looking for elevation data to relate to the Sea Level
+		
+14:17	Vinny Vilasboa
+		Are we wanting to plug in a zip code?
+		Flood insurance is often not involved/available
+		So does it tell you what your risk is based on the zipcode/geography?
+		
+14:18	Benjamin Sweet
+		That was one direction we were exploring
+		
+		For instance, it might be something to help people prepare or use the data
+		For instance, if the property may devalue, maybe seeing if there is a discount on bank/insurance/etc. services?
+		
+Recap, we were talking about changing, but now we are looking to redefine our goal and try to be more niche.
+		
+14:28	Sebs Ipince
+		What are we doing to make this a product that someone wants to buy?
+		Who is going to use this? How do you see people using this?
+		
+14:30	Vinny Vilasboa
+		We were discussing this, and we were talking about benefitting people
+		
+		Maybe thinking about other things like the quality/integrity of the roof, foundation, etc. to show risks, and what to focus on:
+		e.g. Flood insurance, etc.
+		
+		
+		
